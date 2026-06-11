@@ -1,2 +1,2 @@
 # Master-Thesis
-In this repository, code files developed for this master thesis has been attached. The work builds on developed  by Archana Kumaraswamy. 
+In this repository, code files developed for this master thesis has been attached. The work builds on a code framework developed by Archana Kumaraswamy. 
