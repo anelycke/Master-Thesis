@@ -13,3 +13,6 @@ In this repository, code files developed for this master thesis has been attache
 
 
 3 Tank recycle WAS .ipynb and .jl files, and MPC Model 3tk Recycle WAS is used in Case 4.
+
+
+RK4 file is used for the case in Appendix. 
